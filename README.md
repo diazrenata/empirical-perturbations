@@ -18,7 +18,7 @@ Variations on this could include:
 
 Possible beginning data sources (immediately available):
 
-- Supp's manipulated animal community database
+- Supp's manipulated animal community database. Paired control-manip, heterogeneous "manip", heterogeneous taxa. 
 - Portal plants: winter and summer, control/exclosure/removal. Also known dates of droughts, invasions, and reorgs of rodents. Timeseries or snapshot.
 - Portal rodents: control/exclosure. Snapshots or timeseries. Known dates of droughts, floods, changepoints. Changepoints x crashes in abundance. 
 
