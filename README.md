@@ -50,6 +50,13 @@ Curious what AJR thinks about this; happySAD
 
 %off metric works - hackily? - for manually sampled baselines.
 
+### Interpretations
+
+Depends a bit on data sources.
+
+\delta S and N is important. Statistical power is important.
+
+The "equilibrium"ness of the control is important.
 
 ### Sidebars
 
