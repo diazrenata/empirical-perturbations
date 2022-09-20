@@ -19,8 +19,8 @@ Variations on this could include:
 Possible beginning data sources (immediately available):
 
 - Supp's manipulated animal community database
-- Portal plants
-- Portal rodents
+- Portal plants: winter and summer, control/exclosure/removal. Also known dates of droughts, invasions, and reorgs of rodents. Timeseries or snapshot.
+- Portal rodents: control/exclosure. Snapshots or timeseries. Known dates of droughts, floods, changepoints. Changepoints x crashes in abundance. 
 
 Next-level data sources (some getting-together required):
 
