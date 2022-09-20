@@ -58,6 +58,8 @@ Depends a bit on data sources.
 
 The "equilibrium"ness of the control is important.
 
+There's some argument you would in fact see an arc (see AJR 2015 GEB).
+
 ### Sidebars
 
 - Naturally dovetails with an in silico perturbations simulations project
